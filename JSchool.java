@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
 * The class JSchool is a collection of classes, lecture halls, instructors, and students at a college.
 * @author Evan Cheng
