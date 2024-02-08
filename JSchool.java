@@ -6,14 +6,14 @@ import java.util.ArrayList;
 */
 
 public class JSchool {
-    /** ArrayList of classes at the school. */
-    ArrayList<JClass> classes = new ArrayList<>();
-    /** ArrayList of lecture halls at the school. */
-    ArrayList<JLHall> lecHalls = new ArrayList<>();
-    /** ArrayList of instructors at the school. */
-    ArrayList<JInstruc> instructors = new ArrayList<>();
-    /** ArrayList of students at the school. */
-    ArrayList<JStudent> students = new ArrayList<>();
+    /** JClass ArrayList of classes at the school. */
+    private ArrayList<JClass> classes;
+    /** JLHall ArrayList of lecture halls at the school. */
+    private ArrayList<JLHall> lecHalls;
+    /** JInstruc ArrayList of instructors at the school. */
+    private ArrayList<JInstruc> instructors;
+    /** JStudent ArrayList of students at the school. */
+    private ArrayList<JStudent> students;
 
 
     /**
