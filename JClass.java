@@ -21,7 +21,7 @@ public class JClass {
     /**
     * Returns a JClass.
     */
-    public JSchool() {
+    public JClass() {
     }
 
     /**

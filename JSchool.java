@@ -73,7 +73,7 @@ public class JSchool {
 
     /**
     * Removes the JStudent from the student ArrayList.
-    * @param i The JStuent being removed.
+    * @param i The JStudent being removed.
     */
     public void releaseStu(JStudent i) {
     }
